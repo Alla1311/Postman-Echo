@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/el0bc9u8gpfo65mn?svg=true)](https://ci.appveyor.com/project/Alla1311/postman-echo-dqtfg)
